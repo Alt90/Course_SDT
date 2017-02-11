@@ -23,10 +23,12 @@ Course Software Design Technology
 -------
 
   [1. Вводная. О том как писать код](/lections/1.intro.md)
+
   [2. Технологии проектирования](/lections/2.development.md)
 
 Семинары
 --------
 
   [1. Интро в  python. for, if.](/lab/1.intro.md)
+
   [2. list, dict, set](/lab/2.multiple.md)
