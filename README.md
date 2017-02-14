@@ -29,6 +29,6 @@ Course Software Design Technology
 Семинары
 --------
 
-  [1. Интро в  python. for, if.](/lab/1.intro.md)
+  [1. Интро в  python. type, if.](/lab/1.intro.md)
 
-  [2. list, dict, set](/lab/2.multiple.md)
+  [2. list, dict, def, for](/lab/2.multiple.md)
