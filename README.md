@@ -24,9 +24,15 @@ Course Software Design Technology
 
   [2. Технологии проектирования](/lections/2.development.md)
 
+  [3. Таск трекер](/lections/3.task_tracker.md)
+
 Практические занятия
 --------
 
   [1. Интро в  python. type, if.](/lab/1.intro.md)
 
   [2. list, dict, def, for](/lab/2.multiple.md)
+
+### Лицензия
+
+Продукт распространяеться под лицензией [MIT](LICENSE)
