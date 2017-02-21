@@ -33,6 +33,8 @@ Course Software Design Technology
 
   [2. list, dict, def, for](/lab/2.multiple.md)
 
+  [3. venv, import, requests, beautifulsoup](/lab/3.crawler.md)
+
 ### Лицензия
 
 Продукт распространяеться под лицензией [MIT](LICENSE)
