@@ -26,6 +26,8 @@ Course Software Design Technology
 
   [3. Таск трекер](/lections/3.task_tracker.md)
 
+  [4. Планирование итераций и разделение работы](/lections/4.planing_work.md)
+
 Практические занятия
 --------
 
