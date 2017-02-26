@@ -37,6 +37,8 @@ Course Software Design Technology
 
   [3. venv, import, requests, beautifulsoup](/lab/3.crawler.md)
 
+  [4. flask, jinja2, bootstrap](/lab/4.website.md)
+
 ### Лицензия
 
 Продукт распространяеться под лицензией [MIT](LICENSE)
