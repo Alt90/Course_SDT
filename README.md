@@ -24,7 +24,7 @@ Course Software Design Technology
 
   [2. Технологии проектирования](/lections/2.development.md)
 
-  [3. Таск трекер](/lections/3.task_tracker.md)
+  [3. Task Tracker](/lections/3.task_tracker.md)
 
   [4. Планирование итераций и разделение работы](/lections/4.planing_work.md)
 
