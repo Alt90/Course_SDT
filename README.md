@@ -20,13 +20,15 @@ Course Software Design Technology
 Лекции
 -------
 
-  [1. Вводная. О том как писать код](/lections/1.intro.md)
+  [1. Вводная лекция. О том как писать код](/lections/1.intro.md)
 
   [2. Технологии проектирования](/lections/2.development.md)
 
   [3. Task Tracker](/lections/3.task_tracker.md)
 
   [4. Планирование итераций и разделение работы](/lections/4.planing_work.md)
+
+  [5. Вводная лекция. О том как планировать проект.](/lections/5.planing_projects.md)
 
 Практические занятия
 --------
