@@ -43,6 +43,8 @@ Course Software Design Technology
 
   [4. flask, jinja2, bootstrap](/lab/4.website.md)
 
+  [5. postgresql](/lab/5.db.md)
+
 ### Лицензия
 
 Продукт распространяеться под лицензией [MIT](LICENSE)
