@@ -31,6 +31,8 @@ Course Software Design Technology
   [5. Вводная лекция. О том как планировать проект.](/lections/5.planing_projects.md)
 
   [6. Тестирование.](/lections/6.test.md)
+  
+  [7. Основы WEB.](/lections/7.web.md)
 
 Практические занятия
 --------
