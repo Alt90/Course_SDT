@@ -48,6 +48,8 @@ Course Software Design Technology
   [4. flask, jinja2, bootstrap](/lab/4.website.md)
 
   [5. postgresql](/lab/5.db.md)
+  
+  [6. traiding](/lab/6.traiding.md)
 
 ### Лицензия
 
