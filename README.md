@@ -33,6 +33,8 @@ Course Software Design Technology
   [6. Тестирование.](/lections/6.test.md)
   
   [7. Основы WEB.](/lections/7.web.md)
+  
+  [8. Deploy.](/lections/8.deploy.md)
 
 Практические занятия
 --------
