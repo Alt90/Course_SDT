@@ -50,6 +50,11 @@ Course Software Design Technology
   [5. postgresql](/lab/5.db.md)
   
   [6. traiding](/lab/6.traiding.md)
+  
+Вопросы по курсу
+--------
+
+  [Список вопросов](questions_list.md)
 
 ### Лицензия
 
