@@ -50,6 +50,8 @@ Course Software Design Technology
   [5. postgresql](/lab/5.db.md)
   
   [6. traiding](/lab/6.traiding.md)
+
+  [7. tcp](/lab/7.TCP.md)
   
 Вопросы по курсу
 --------
